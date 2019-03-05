@@ -1,4 +1,7 @@
 # Bypass Facebook SSL Pinning
+
+[![HitCount](http://hits.dwyl.io/QuynhVir/Bypass-Facebook-SSL-Pinning.svg)](http://hits.dwyl.io/QuynhVir/Bypass-Facebook-SSL-Pinning)
+
 Bypass SSL Pinning on Facebook for Android version 210.0.0.43.119 (February 26, 2019)
 
 **x86 only**
